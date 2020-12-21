@@ -1,0 +1,7 @@
+Este es un ejercicio para repasar el
+
+git rebase porque amole la historia
+
+de mi proyecto y no quiero partirle el
+
+queso
