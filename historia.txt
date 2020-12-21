@@ -4,4 +4,6 @@ git rebase porque amole la historia
 
 de mi proyecto y no quiero partirle el
 
-queso
+queso aunque creo que ya encontra la
+
+solucion
